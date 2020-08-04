@@ -3,6 +3,7 @@
 ```
 Programmers_2018Winter_49995 - DP
 Programmers_2018Summer_12984 - 시간복잡도를 줄이자
+Programmers_42861 - 크루스칼 알고리즘 + union-find
 ```
 
 
@@ -12,6 +13,7 @@ Programmers_2018Summer_12984 - 시간복잡도를 줄이자
 ```
 Programmers_12900 - 경우의 수 생각하는 문제 (피보나치)(타일링)
 BOJ_2437 - 씽크빅(저울추들로 젤수 없는 최소 무게)
+Programmers_42861 - 크루스칼 알고리즘 + union-find
 ```
 
 
