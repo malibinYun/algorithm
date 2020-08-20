@@ -37,5 +37,6 @@ Programmers_12917 - 문자열 Extension
 Programmers_42578 - ㄹㅇ 코틀린스러운 코드 주석 참고 fold & groupBy 매우 감동
 Programmers_42746 - 문자열 정렬 Extension
 Programmers_12903 - 문자열 / with(){} 사용
+Programmers_42579 - 함수형 프로그래밍 굿.
 ```
 
